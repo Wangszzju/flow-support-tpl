@@ -2,7 +2,7 @@ module.exports = {
   parser: "babel-eslint",
   plugins: [
     "flowtype"
-  ]
+  ],
   env: {
     browser: true,
     commonjs: true,
